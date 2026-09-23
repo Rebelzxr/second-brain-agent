@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="536" viewBox="0 0 960 536" role="img" aria-label="your new vault output">
+<rect width="960" height="536" rx="16" fill="#1d201c"/>
+<circle cx="28" cy="28" r="7" fill="#f87171"/><circle cx="50" cy="28" r="7" fill="#fbbf24"/><circle cx="72" cy="28" r="7" fill="#86efac"/>
+<text x="480.0" y="33" text-anchor="middle" font-family="-apple-system,Segoe UI,Arial,sans-serif" font-size="14" fill="#9a9c92">your new vault</text>
+<text x="28" y="80" font-family="SF Mono,Menlo,Consolas,monospace" font-size="16" fill="#fbbf77" xml:space="preserve">$ cd ~/SecondBrain &amp;&amp; find . -type f</text>
+<text x="28" y="106" font-family="SF Mono,Menlo,Consolas,monospace" font-size="16" fill="#ece9e0" xml:space="preserve">.brain/manifest.json</text>
+<text x="28" y="132" font-family="SF Mono,Menlo,Consolas,monospace" font-size="16" fill="#ece9e0" xml:space="preserve">0_Inbox/Clippings/.gitkeep</text>
+<text x="28" y="158" font-family="SF Mono,Menlo,Consolas,monospace" font-size="16" fill="#ece9e0" xml:space="preserve">1_Raw/.gitkeep</text>
+<text x="28" y="184" font-family="SF Mono,Menlo,Consolas,monospace" font-size="16" fill="#ece9e0" xml:space="preserve">2_Wiki/Compounds/.gitkeep</text>
+<text x="28" y="210" font-family="SF Mono,Menlo,Consolas,monospace" font-size="16" fill="#ece9e0" xml:space="preserve">2_Wiki/Concepts/Keep the model out of the critical path.md</text>
+<text x="28" y="236" font-family="SF Mono,Menlo,Consolas,monospace" font-size="16" fill="#ece9e0" xml:space="preserve">2_Wiki/Decisions/Build, buy or skip an AI tool.md</text>
+<text x="28" y="262" font-family="SF Mono,Menlo,Consolas,monospace" font-size="16" fill="#ece9e0" xml:space="preserve">2_Wiki/Digests/2024-12-19 - Anthropic - Building effective agents.md</text>
+<text x="28" y="288" font-family="SF Mono,Menlo,Consolas,monospace" font-size="16" fill="#ece9e0" xml:space="preserve">2_Wiki/INDEX.md</text>
+<text x="28" y="314" font-family="SF Mono,Menlo,Consolas,monospace" font-size="16" fill="#ece9e0" xml:space="preserve">3_Learning/Weekly/.gitkeep</text>
+<text x="28" y="340" font-family="SF Mono,Menlo,Consolas,monospace" font-size="16" fill="#ece9e0" xml:space="preserve">AGENTS.md</text>
+<text x="28" y="366" font-family="SF Mono,Menlo,Consolas,monospace" font-size="16" fill="#ece9e0" xml:space="preserve">CLAUDE.md</text>
+<text x="28" y="392" font-family="SF Mono,Menlo,Consolas,monospace" font-size="16" fill="#ece9e0" xml:space="preserve">Templates/concept.md</text>
+<text x="28" y="418" font-family="SF Mono,Menlo,Consolas,monospace" font-size="16" fill="#ece9e0" xml:space="preserve">Templates/decision.md</text>
+<text x="28" y="444" font-family="SF Mono,Menlo,Consolas,monospace" font-size="16" fill="#ece9e0" xml:space="preserve">Templates/digest.md</text>
+<text x="28" y="470" font-family="SF Mono,Menlo,Consolas,monospace" font-size="16" fill="#ece9e0" xml:space="preserve">Templates/learning.md</text>
+<text x="28" y="496" font-family="SF Mono,Menlo,Consolas,monospace" font-size="16" fill="#ece9e0" xml:space="preserve">Templates/weekly.md</text>
+</svg>
